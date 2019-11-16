@@ -1,5 +1,5 @@
 # Red Wine Kaggle Competition
-[![Red Wine Kaggle Competition](banner.png)](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009)
+[![Red Wine Kaggle Competition](https://github.com/jcorvino/red_wine/blob/master/banner.PNG?raw=true)](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009)
 In this competition the quality of wine was predicted from a Kaggle wine dataset. The wine quality was given on a scale of 1-10, but the classification was used to determine whether wine is "good" or "bad". All wines with a quality score 7 or higher were deemed "good" and all other wines were deemed "bad". 
 The original dataset was modified to convert wine quality to a "good/bad" rating. The strongest correlated property to wine quality was alcohol content (the higher the better) while the weakest correlated property was the residual sugar content. 
 
